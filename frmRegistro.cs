@@ -212,4 +212,9 @@ namespace pryRodriguezSP2A
             txtNombre.Text = "";
             txtTelefono.Text = "";
         }
- }  }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+    }  }
